@@ -1,0 +1,17 @@
+{
+	"src": "js/src/",
+	"code": {
+		"main": [
+			"js",
+			"dist",
+			"logic.js"
+		],
+		"test": [
+			"test",
+			"js"
+		]
+	},
+	"name": "logic",
+	"out": "js/dist/",
+	"debug": false
+}

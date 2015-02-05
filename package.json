@@ -1,0 +1,32 @@
+{
+	"bugs": {
+		"url": "https://github.com/aureooms/js-logic/issues"
+	},
+	"description": "logic code bricks for JavaScript",
+	"scripts": {
+		"test": "./node_modules/.bin/aureooms-node-package-test",
+		"build": "./node_modules/.bin/aureooms-node-package-build",
+		"doc": "./node_modules/.bin/groc"
+	},
+	"keywords": [
+		"bricks",
+		"functional",
+		"javascript",
+		"js",
+		"logic"
+	],
+	"repository": {
+		"url": "https://github.com/aureooms/js-logic.git",
+		"type": "git"
+	},
+	"homepage": "http://aureooms.github.io/js-logic/",
+	"dependencies": {},
+	"author": "aureooms",
+	"devDependencies": {
+		"aureooms-node-package": "^2.0.2"
+	},
+	"license": "AGPL-3.0",
+	"main": "js/dist/logic.js",
+	"version": "0.0.0",
+	"name": "aureooms-js-logic"
+}
