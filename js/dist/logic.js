@@ -102,7 +102,7 @@ exports.tru = tru ;
 
 /* js/src/xor.js */
 
-var xor = funciton ( a , b ) {
+var xor = function ( a , b ) {
 
 	return a( ntt( b ) , b ) ;
 

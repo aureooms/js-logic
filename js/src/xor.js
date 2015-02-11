@@ -1,5 +1,5 @@
 
-var xor = funciton ( a , b ) {
+var xor = function ( a , b ) {
 
 	return a( ntt( b ) , b ) ;
 
