@@ -1,6 +1,6 @@
 {
 	"description": "logic code bricks for JavaScript",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"repo": "aureooms/js-logic",
 	"scripts": [
 		"js/dist/logic.js"
