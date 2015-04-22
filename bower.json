@@ -4,7 +4,7 @@
 	"license": "AGPL-3.0",
 	"main": "js/dist/logic.js",
 	"name": "aureooms-js-logic",
-	"version": "0.0.4",
+	"version": "0.0.5",
 	"ignore": [
 		"js/index.js",
 		"js/src",
