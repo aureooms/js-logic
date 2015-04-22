@@ -13,6 +13,7 @@ logic code bricks for JavaScript
 [![Code Climate](http://img.shields.io/codeclimate/github/aureooms/js-logic.svg?style=flat)](https://codeclimate.com/github/aureooms/js-logic)
 [![NPM downloads per month](http://img.shields.io/npm/dm/aureooms-js-logic.svg?style=flat)](https://www.npmjs.org/package/aureooms-js-logic)
 [![GitHub issues](http://img.shields.io/github/issues/aureooms/js-logic.svg?style=flat)](https://github.com/aureooms/js-logic/issues)
+[![Inline docs](http://inch-ci.org/github/aureooms/js-logic.svg?branch=master&style=shields)](http://inch-ci.org/github/aureooms/js-logic)
 
 Reference:
 
