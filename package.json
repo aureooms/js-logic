@@ -23,7 +23,7 @@
 	"dependencies": {},
 	"author": "aureooms",
 	"devDependencies": {
-		"aureooms-node-package": "^2.0.2"
+		"aureooms-node-package": "^7.0.0"
 	},
 	"license": "AGPL-3.0",
 	"main": "js/dist/logic.js",
