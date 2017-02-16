@@ -28,5 +28,5 @@
 	"license": "AGPL-3.0",
 	"main": "js/dist/logic.js",
 	"version": "0.0.5",
-	"name": "aureooms-js-logic"
+	"name": "@aureooms/js-logic"
 }
