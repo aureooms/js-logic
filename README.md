@@ -1,4 +1,4 @@
-[js-logic](http://aureooms.github.io/js-logic)
+[js-logic](http://make-github-pseudonymous-again.github.io/js-logic)
 ==
 
 Logic code bricks for JavaScript.
