@@ -1,6 +1,6 @@
 {
 	"bugs": {
-		"url": "https://github.com/aureooms/js-logic/issues"
+		"url": "https://github.com/make-github-pseudonymous-again/js-logic/issues"
 	},
 	"description": "logic code bricks for JavaScript",
 	"scripts": {
@@ -16,7 +16,7 @@
 		"logic"
 	],
 	"repository": {
-		"url": "https://github.com/aureooms/js-logic.git",
+		"url": "https://github.com/make-github-pseudonymous-again/js-logic.git",
 		"type": "git"
 	},
 	"homepage": "http://make-github-pseudonymous-again.github.io/js-logic/",
